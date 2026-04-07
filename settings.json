@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "zylarnet",
-    "password": "95642138",
+    "username": "zbot",
+    "password": "smokex06",
     "type": "offline"
   },
   "server": {
-    "ip": "nl-01.freezehost.pro",
-    "port": 9069,
+    "ip": "zylar.mcsh.io",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
