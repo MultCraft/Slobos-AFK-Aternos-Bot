@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zylar.mcsh.io",
-    "port": 25565,
+    "ip": "nl-01.freezehost.pro",
+    "port": 9069,
     "version": "",
     "try-creative": false
   },
