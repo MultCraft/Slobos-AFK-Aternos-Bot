@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zylar.mcsh.io",
-    "port": 25565,
+    "ip": "zylar.mine.bz",
+    "port": 61866,
     "version": "",
     "try-creative": false
   },
